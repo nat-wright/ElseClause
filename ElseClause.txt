@@ -1,0 +1,10 @@
+An else clause is an alternate ending to an if statement. If the if statement is false then the else clause will occur.
+else clauses are used hand in hand with if statements
+if(true) {
+		print("yay!)
+	}else {
+		print("wrong");
+	}
+if statements and else clauses can both be used with math operators
+an else clause allows for the function to run a different script if the primary function can't, or isn't able to run
+else clauses, along with if statements, are referred to as conditionals
